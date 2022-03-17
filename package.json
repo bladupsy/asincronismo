@@ -4,7 +4,8 @@
   "description": "desarrollo con asincronismo con JavaScript",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callbacks/index.js"
+    "callback": "node src/callbacks/index.js",
+    "challenge": "node src/callbacks/challenge.js"
   },
   "keywords": [
     "callbacks",
@@ -13,7 +14,8 @@
   ],
   "author": "Bladupsy",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "xmlhttprequest": "^1.8.0"
   }
 }
